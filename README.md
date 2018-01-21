@@ -1,10 +1,12 @@
 <html>
 <body>
 <h1>Overview</h1>
-This is the amazing application which imporves your speaking skill in English or Japanese.
-You can check the word's pronunciation and meaning sametime.<br>
-
-Besides,it has function which can connect you and native speakers! So if you want to truly master English or Japanese writing skill, This is THE Application. 
-
+Application which imporves writting skill in English.
+<h2>Function</h2>
+<ul>
+  <li>lists some pronumciation of word that user want to memorize.</li>
+  <li>allows user to correct text which are written by other users.</li>
+  <li></li>
+</ul>
 </body>
 </html>
